@@ -45,7 +45,7 @@ const typewriter = new Typewriter(document.getElementById("typewritter"), {
 });
 
 typewriter
-  .typeString("I am a IT Consultant")
+  .typeString("I am a Freelance IT")
   .pauseFor(2500)
   .deleteAll()
   .typeString("I am a Network Engineer")
